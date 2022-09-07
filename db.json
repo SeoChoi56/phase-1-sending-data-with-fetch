@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "jung",
+      "dogBreed": "jung",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,133 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "seo",
+      "email": "42WallabyWAY@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "knai",
+      "email": "sqrqwer",
+      "id": 19
+    },
+    {
+      "name": "knai",
+      "email": "sqrqwer",
+      "id": 20
+    },
+    {
+      "name": "knai",
+      "email": "sqrqwer",
+      "id": 21
+    },
+    {
+      "name": "knai",
+      "email": "sqrqwer",
+      "id": 22
+    },
+    {
+      "name": "knai",
+      "email": "sqrqwer",
+      "id": 23
+    },
+    {
+      "name": "knai",
+      "email": "sqrqwer",
+      "id": 24
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
